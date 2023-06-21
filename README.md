@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
 <style> p {padding:50px;} </style>
-<title> ___ </title>
+<title> In the footsteps of Classical Giants: Beethoven </title>
 </head> 
 
  <div class="navbar">
@@ -11,19 +11,7 @@
 	<div style='margin-left:50px;'>
 	<div style='margin-right:50px;'>
 
-<a href="file:///D:/Users/LENOVO/Desktop/UNIBO/INFO/classicalgiants%20GIUSTO2.1.html"style="color:white; font-size: 25px; padding-right: 8px; text-decoration: none"> Homepage </a> 
 
-<a href="file:///D:/Users/LENOVO/Desktop/UNIBO/INFO/pagina%20bach1.3.html"style="color:white; font-size: 25px; padding-right: 8px; text-decoration: none"> Bach </a> 
-<a href="file:///D:/Users/LENOVO/Desktop/UNIBO/INFO/template%20mozart1.html"style="color:white; font-size: 25px; padding-right: 8px; text-decoration: none"> Mozart </a> 
-
-<a href="file:///D:/Users/LENOVO/Desktop/UNIBO/INFO/pagina%20beethoven2.html"style="color:white; font-size: 25px; padding-right: 8px; text-decoration: none"> Beethoven </a>  
-
-<a href="file:///D:/Users/LENOVO/Desktop/INFO/classicalgiants%20GIUSTO.html"style="color:white; font-size: 25px; padding-right: 8px; text-decoration: none"> Report </a> 
-</div> 
-</div>
-</div>
-</div>
-</div>
 
 <div style='margin-top:15px; background-color:SeaShell'>
 	<div style='margin-left:15px;'>
